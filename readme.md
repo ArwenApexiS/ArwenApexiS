@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 <h1 align="center">I'm ArwenApexis</h1>
 <h3 align="center">A passionate front-end developer</h3>
 
