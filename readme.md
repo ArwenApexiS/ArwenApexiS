@@ -15,7 +15,7 @@
 <br>
 
 <a href="https://www.github.com/ArwenApexis"><img src="https://komarev.com/ghpvc/?username=ArwenApexis&style=for-the-badge&color=161c1c&label=👁+PROFILE+VIEWS" alt="MAHcodes github profile views" /></a>
-<a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logoColor=00c6ff&logo=linux&color=161c1c" /></a>
+<a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Macos-e06c75?style=for-the-badge&logoColor=00c6ff&logo=macos&color=161c1c" /></a>
 <a href="https://archlinux.org"><img src="https://img.shields.io/badge/DISTRO-Arch-56b6c2?style=for-the-badge&logo=arch-linux&logoColor=00c6ff&color=161c1c" /></a>
 <a href="https://userbase.kde.org/KWin"><img src="https://img.shields.io/badge/WM-KWin-005577?style=for-the-badge&logo=KWin&color=161c1c&logoColor=00c6ff" /></a>
 <a href="https://kate-editor.org/"><img src="https://img.shields.io/badge/IDE-KATE-98c379?style=for-the-badge&logo=kate&color=161c1c&logoColor=00c6ff" /></a>
