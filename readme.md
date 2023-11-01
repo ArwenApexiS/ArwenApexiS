@@ -6,10 +6,6 @@
 <a href="https://github.com/ArwenApexis"><img src="https://github-widgetbox.vercel.app/api/profile?username=ArwenApexis&amp;theme=darkmode&amp;data=followers,repositories,stars,commits" alt="ArwenApexis Profile WidgetBox"></a>
 
 
-![Flag_of_Turkey svg](https://github.com/ArwenApexiS/ArwenApexiS/assets/55950914/a450388b-831d-4dfa-b5fa-1c7d41e3a7d7)
-
-
-
 <img src="https://github-widgetbox.vercel.app/api/skills?languages=linux,js,html, css &amp;theme=darkmode" alt="ArwenApexis Skills WidgetBox">
 <div style="display:flex;">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArwenApexis&show_icons=true&theme=dark&bg_color=161c1c&hide_border=true&icon_color=00c6ff&title_color=00c6ff&border_radius=16" alt="ArwenApexis GitHub Stats">
