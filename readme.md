@@ -5,10 +5,11 @@
 
 <a href="https://github.com/ArwenApexis"><img src="https://github-widgetbox.vercel.app/api/profile?username=ArwenApexis&amp;theme=darkmode&amp;data=followers,repositories,stars,commits" alt="ArwenApexis Profile WidgetBox"></a>
 
-![Add a heading(5)](https://github.com/ArwenApexiS/ArwenApexiS/assets/55950914/5255fcef-e889-41a8-bb24-ef58aaf7026c)
+![Add a heading(8)](https://github.com/ArwenApexiS/ArwenApexiS/assets/55950914/e72e0e03-3628-4edf-a4c5-a68d5a49b4a3)
+
 
 <div style="display:flex;">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArwenApexis&show_icons=true&theme=dark&bg_color=161c1c&hide_border=true&icon_color=00c6ff&title_color=00c6ff&border_radius=16" alt="ArwenApexis GitHub Stats">
+<img width="46%" src="https://github-readme-stats.vercel.app/api?username=ArwenApexis&show_icons=true&theme=dark&bg_color=161c1c&hide_border=true&icon_color=00c6ff&title_color=00c6ff&border_radius=16" alt="ArwenApexis GitHub Stats">
 <span style="display:inline-block;width:2%"></span>
 <img width="49%" src="https://streak-stats.demolab.com/?user=ArwenApexis&theme=dark&background=161c1c&hide_border=true&border_radius=16&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff" alt="ArwenApexis GitHub Streak">
 </div>
