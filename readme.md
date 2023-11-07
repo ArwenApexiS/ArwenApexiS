@@ -1,8 +1,7 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=9000&color=00C6FF&center=true&width=435&repeat=false&lines=%F0%9F%91%8B+Hey%2C+it's+ArwenApexis!+%F0%9F%91%8B" alt="ArwenApexis" />
 <h3 align="center">A Human.</h3>
-
-
+  
 <a href="https://github.com/ArwenApexis"><img src="https://github-widgetbox.vercel.app/api/profile?username=ArwenApexis&amp;theme=darkmode&amp;data=followers,repositories,stars,commits" alt="ArwenApexis Profile WidgetBox"></a>
 
 ![Add a heading(10)](https://github.com/ArwenApexiS/ArwenApexiS/assets/55950914/52ce4b79-95be-4a32-83da-e603460a0ecf)
